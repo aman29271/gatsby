@@ -3858,14 +3858,18 @@
     - Tagging
     - Theming
     - Customizable
-- url: https://gatsby-starter-headless-wp.netlify.com
-  repo: https://github.com/crock/gatsby-starter-headless-wordpress
-  description: A starter Gatsby site to quickly implement a site for headless WordPress
+- url: https://https://gatsby-advanced-blog-starter.netlify.com
+  repo: https://github.com/aman29271/gatsby-advanced-blog-starter
+  description: A pre-built Gatsby Starter Tech-blog
   tags:
     - Blog
-    - CMS:Headless
-    - CMS:Wordpress
+    - Markdown
+    - Tech
+    - Styling: SCSS
   features:
-    - New Header
+    - Highly Optimised
+    - Image optimised with blur-up effect
     - Responsive
-    - Sidebar that displays recent blog posts
+    - Code  highlighting
+    - tagging
+    - Sass compiled
